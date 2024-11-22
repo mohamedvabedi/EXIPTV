@@ -9,5 +9,5 @@ https://livetvde.net/cekyaa/tracks-v1a1/mono.m3u8?token=1894d1438e598377425071c4
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
 #EXTINF:-1,ARD1
 https://s6.hopslan.com/ard1/tracks-v1a1/mono.m3u8?token=7dd7c66ac48b9600d641e892d757fe7d70a3a4e8-48d98f7c2e905098e1dfbc767ca462fe-1732299052-1732288252
-EXTINF:-1,6ter
+#EXTINF:-1,6ter
 https://ib.adnxs.com/getuid?https%3A//live.rezync.com/sync%3Fc%3D4656c20ee35215f78e9273796625d90b%26p%3D093016b0419d19c905c78c859b815219%26pid%3D%24UID%26cache_buster%3D1732288906.0402014
