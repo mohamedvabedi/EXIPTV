@@ -7,3 +7,5 @@ https://livetvde.net/w9/tracks-v1a1/mono.m3u8?token=404593a96d12484ff4ede95561d1
 https://livetvde.net/cekyaa/tracks-v1a1/mono.m3u8?token=1894d1438e598377425071c4f94707f68a591b09-0cc90b2f46ce3306b60909e83623008e-1732298182-1732287382
 #EXTINF:-1,MBC1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
+#EXTINF:-1,ARD1
+https://s6.hopslan.com/ard1/tracks-v1a1/mono.m3u8?token=7dd7c66ac48b9600d641e892d757fe7d70a3a4e8-48d98f7c2e905098e1dfbc767ca462fe-1732299052-1732288252
