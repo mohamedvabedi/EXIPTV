@@ -37,3 +37,25 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 https://e1.viginet.vectormax.com:5210/quickstart/114-61-108/index.m3u8
 #EXTINF:-1, 100%Docs
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:0,BBC One NI HD
+http://84.200.70.180:4442/bysid/6963
+#EXTINF:0,BBC Two HD
+http://84.200.70.180:4442/bysid/6940
+#EXTINF:0,CBBC HD
+http://84.200.70.180:4442/bysid/6972
+#EXTINF:0,CBBC HD
+http://84.200.70.180:4442/bysid/6952
+#EXTINF:0,ETV4
+http://84.200.70.180:4442/bysid/6945
+#EXTINF:0,BBC One NI HD
+http://84.200.70.180:4442/bysid/6943
+#EXTINF:0,BBC One Y&L HD
+http://84.200.70.180:4442/bysid/6911
+#EXTINF:0,BBC One SE HD
+http://84.200.70.180:4442/bysid/6931
