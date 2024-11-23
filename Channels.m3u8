@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, RTL 
 https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=80f60b47d2f6b66a805ca522667a0892437e1be8-fe08a01bd051b6d78bc683a418809ce5-1732387961-1732377161
-##EXTINF:-1,MBC1
+#EXTINF:-1,MBC1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
 #EXTINF:-1,ARD1
 https://s6.hopslan.com/ard1/tracks-v1a1/mono.m3u8?token=7dd7c66ac48b9600d641e892d757fe7d70a3a4e8-48d98f7c2e905098e1dfbc767ca462fe-1732299052-1732288252
