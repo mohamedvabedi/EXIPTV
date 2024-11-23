@@ -21,7 +21,3 @@ https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/in
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1, SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1, AD NAT GEO
-http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV TOKYO 
-http://203.162.235.41:16908/
