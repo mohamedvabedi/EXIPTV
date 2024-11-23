@@ -17,3 +17,5 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-
 https://cdn406.canlitv.me/trt1.m3u8?tkn=FuF1_rSRrMqvuYoEvgg4zg&tms=1732395320&hst=www.canlitv.me&ip=197.205.64.35
 #EXTINF:-1, PROGRAMME NATIONALE
 https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie
+#EXTINF:-1, ENNAHAR TV
+https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8
