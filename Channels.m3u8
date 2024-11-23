@@ -11,3 +11,5 @@ https://xilam-animation-1-fr.samsung.wurl.tv/3000.m3u8
 https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8?token=03cf5cb70f79bbaf60e52d7e83b8fcf9706a91e9-62b5d8b1421c2cc1e3e4df688957147e-1732388333-1732377533
 #EXTINF:-1,NGW
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1,TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
