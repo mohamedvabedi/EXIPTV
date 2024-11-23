@@ -19,3 +19,5 @@ https://cdn406.canlitv.me/trt1.m3u8?tkn=FuF1_rSRrMqvuYoEvgg4zg&tms=1732395320&hs
 https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1,MBC2
 https://mbc-2-prod-dub-enc.edgenextcdn.net/out/v1/a3ad4b53b3ff4a95b4acba9527b280ba/index_audio_2_0_2910645.mp4?m=1717319829
+#EXTINF:-1,2M
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_400000=2-mp4a_130400_qad=1.m3u8
