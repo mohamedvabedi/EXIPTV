@@ -1,4 +1,4 @@
-#EXTM3U
+de#EXTM3U
 #EXTINF:-1, RTL 
 https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=80f60b47d2f6b66a805ca522667a0892437e1be8-fe08a01bd051b6d78bc683a418809ce5-1732387961-1732377161
 #EXTINF:-1,MBC1
@@ -19,7 +19,3 @@ https://cdn406.canlitv.me/trt1.m3u8?tkn=FuF1_rSRrMqvuYoEvgg4zg&tms=1732395320&hs
 https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1,MBC2
 https://mbc-2-prod-dub-enc.edgenextcdn.net/out/v1/a3ad4b53b3ff4a95b4acba9527b280ba/index_audio_2_0_2910645.mp4?m=1717319829
-#EXTINF:-1,ESHARQ DISCOVERY
-https://asharq-discovery-enc.edgenextcdn.net/out/v1/afc5e5b828df4f1a88b433fc9f8ff2f1/index_video_5_0_5905707.mp4?m=1717319647
-#EXTINF:-1,ESHARQ Doc
-https://asharq-documentary-enc.edgenextcdn.net/out/v1/871a6254268e4609b6a0985a1881becc/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264
