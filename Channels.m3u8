@@ -13,5 +13,5 @@ https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8?token=03cf5cb70f79bbaf60e52
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1,Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-EXTINF:-1,TRT1
+#EXTINF:-1,TRT1
 https://trt1.persona.video/master.m3u8?hls=1
