@@ -31,10 +31,7 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1,RMC DÉCOUVERTE 
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1, ÉCHAPPÉ BELLES
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8
 #EXTINF:-1, RUSSIA 1
 https://player.smotrim.ru/iframe/stream/live_id/2961
-
 #EXTINF:-1,ANTENA3
 https://e1.viginet.vectormax.com:5210/quickstart/114-61-108/index.m3u8
