@@ -51,14 +51,14 @@ https://a99.azplay.me/hls/streama226652/index.m3u8?cst=343b434ebf5cd549b9862a92e
 https://m3u.iranvids.com/rai01/output.m3u8
 #EXTINF:0, PROGRAMME NATIONALE 
 http://135.125.190.154:8080/live/tdn/tdn/705.ts
-#EXTINF:0, TEST
+#EXTINF:0, TV4
 http://135.125.190.154:8080/live/tdn/tdn/708.ts
 
 #EXTINF:0, A3
 http://135.125.190.154:8080/live/tdn/tdn/707.ts
 
-#EXTINF:0, TEST1
+#EXTINF:0, TV5
 http://135.125.190.154:8080/live/tdn/tdn/709.ts
 
-#EXTINF:0, TEST2
+#EXTINF:0, TV6
 http://135.125.190.154:8080/live/tdn/tdn/710.ts
