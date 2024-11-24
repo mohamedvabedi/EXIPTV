@@ -1,4 +1,6 @@
-de#EXTM3U
+#EXTM3U
+#EXTINF:-1,ECHAPEES BELLES 
+https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8
 #EXTINF:-1, RTL 
 https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8?token=80f60b47d2f6b66a805ca522667a0892437e1be8-fe08a01bd051b6d78bc683a418809ce5-1732387961-1732377161
 #EXTINF:-1,MBC1
