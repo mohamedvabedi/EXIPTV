@@ -89,13 +89,13 @@ http://135.125.190.154:8080/live/tdn/tdn/720.ts
 #EXTINF:0, ELFADJRTV
 http://135.125.190.154:8080/live/tdn/tdn/725.ts
 
-#EXTINF:0, TEST1
+#EXTINF:0, ELBILAD TV
 http://135.125.190.154:8080/live/tdn/tdn/726.ts
 
-#EXTINF:0, TEST2
+#EXTINF:0, BERBERE TV
 http://135.125.190.154:8080/live/tdn/tdn/727.ts
 
-#EXTINF:0, TEST3
+#EXTINF:0, ELHAYAT TV
 http://135.125.190.154:8080/live/tdn/tdn/728.ts
 
 
