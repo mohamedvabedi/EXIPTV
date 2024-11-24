@@ -401,3 +401,5 @@ http://teledunet.com:8080/tdn/tdn/723.ts
 http://teledunet.com:8080/tdn/tdn/727.ts
 #EXTINF:-1,DJAZAIRIA N1
 http://teledunet.com:8080/tdn/tdn/720.ts
+#EXTINF:-1,NAT GEO AD
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
