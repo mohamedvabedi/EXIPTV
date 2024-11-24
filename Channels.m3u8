@@ -69,27 +69,38 @@ http://135.125.190.154:8080/live/tdn/tdn/711.ts
 #EXTINF:0, TV8
 http://135.125.190.154:8080/live/tdn/tdn/712.ts
 
-#EXTINF:0, TEST2
+#EXTINF:0, ENNAHARTV
 http://135.125.190.154:8080/live/tdn/tdn/714.ts
 
 
-#EXTINF:0, TEST
-http://135.125.190.154:8080/live/tdn/tdn/713.ts
-
-#EXTINF:0, TEST3
+#EXTINF:0, ELHEDDAF
 http://135.125.190.154:8080/live/tdn/tdn/715.ts
 
-#EXTINF:0, TEST4
+#EXTINF:0, ECHOUROUK TV
 http://135.125.190.154:8080/live/tdn/tdn/716.ts
 
-#EXTINF:0, TEST5
-http://135.125.190.154:8080/live/tdn/tdn/717.ts
-
-
-#EXTINF:0, TEST6
-http://135.125.190.154:8080/live/tdn/tdn/718.ts
-
-#EXTINF:0, TEST7
+#EXTINF:0, SAMIRA TV
 http://135.125.190.154:8080/live/tdn/tdn/719.ts
+
+
+#EXTINF:0, TEST
+http://135.125.190.154:8080/live/tdn/tdn/720.ts
+
+#EXTINF:0, TEST1
+http://135.125.190.154:8080/live/tdn/tdn/721.ts
+
+#EXTINF:0, TEST2
+http://135.125.190.154:8080/live/tdn/tdn/722.ts
+
+#EXTINF:0, TEST3
+http://135.125.190.154:8080/live/tdn/tdn/723.ts
+
+#EXTINF:0, TEST4
+http://135.125.190.154:8080/live/tdn/tdn/724.ts
+
+#EXTINF:0, TEST5
+http://135.125.190.154:8080/live/tdn/tdn/725.ts
+
+
 
 
