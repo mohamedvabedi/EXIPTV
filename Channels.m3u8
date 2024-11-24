@@ -69,8 +69,8 @@ http://135.125.190.154:8080/live/tdn/tdn/711.ts
 #EXTINF:0, TV8
 http://135.125.190.154:8080/live/tdn/tdn/712.ts
 
-#EXTINF:0, CANAL ALGÉRIE 
-http://135.125.190.154:8080/live/tdn/tdn/706.ts
+#EXTINF:0, TEST2
+http://135.125.190.154:8080/live/tdn/tdn/714.ts
 
 
 #EXTINF:0, TEST
