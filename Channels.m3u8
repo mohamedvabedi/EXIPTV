@@ -62,3 +62,11 @@ http://135.125.190.154:8080/live/tdn/tdn/709.ts
 
 #EXTINF:0, TV6
 http://135.125.190.154:8080/live/tdn/tdn/710.ts
+
+#EXTINF:0, TV7
+http://135.125.190.154:8080/live/tdn/tdn/711.ts
+
+#EXTINF:0, TV8
+http://135.125.190.154:8080/live/tdn/tdn/712.ts
+
+
