@@ -39,10 +39,6 @@ https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/p
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:0,ALERTE COBRA 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b105-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e8eddbbb-a9fd-424c-9473-64dc6420b913
-#EXTINF:0,MBC2
-https://mbc-2-prod-dub-enc.edgenextcdn.net/out/v1/a3ad4b53b3ff4a95b4acba9527b280ba/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264
-#EXTINF:0, NARUTO 
-https://fast-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5My44LjEzNy4xNzIiLCJjbWNkIjoiIiwiZXhwIjoxNzMyNDMyOTMyLCJnaWQiOiIwNDZiOTUyMy03MDdkLTQ3NjMtODFjNi1lNDM1NTQxMjE3ZDUiLCJpYXQiOjE3MzI0MTg1MzIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii92MS92MmwvcHJkLXYybC1uYXJ1dG8tMjE2NTc1NTcvMC9hZGJhY2svODJlNWE3NmEtM2JlNS00ZTIzLThhZmItZGNmYTk2ZGNhZTY0L2hscy1zZC5tM3U4Iiwic3ViIjoiMDQ2Yjk1MjMtNzA3ZC00NzYzLTgxYzYtZTQzNTU0MTIxN2Q1In0.Re0k44KbRcFQkVXmGuXSefMR2Tu4wrRETyRYqa6FaJs/v1/v2l/prd-v2l-naruto-21657557/0/adback/82e5a76a-3be5-4e23-8afb-dcfa96dcae64/hls-hd/0.m3u8
 #EXTINF:0, KIKA
 https://s6.hopslan.com/kika/tracks-v1a1/mono.m3u8?token=fda9a427c068c7a8a89ba2c9ac0aa551bb7a94a3-e1a1d9a2320022aad961e7a730cbd534-1732438375-1732427575
 #EXTINF:0, TFX
