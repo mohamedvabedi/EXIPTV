@@ -75,3 +75,21 @@ http://135.125.190.154:8080/live/tdn/tdn/714.ts
 
 #EXTINF:0, TEST
 http://135.125.190.154:8080/live/tdn/tdn/713.ts
+
+#EXTINF:0, TEST3
+http://135.125.190.154:8080/live/tdn/tdn/715.ts
+
+#EXTINF:0, TEST4
+http://135.125.190.154:8080/live/tdn/tdn/716.ts
+
+#EXTINF:0, TEST5
+http://135.125.190.154:8080/live/tdn/tdn/717.ts
+
+
+#EXTINF:0, TEST6
+http://135.125.190.154:8080/live/tdn/tdn/718.ts
+
+#EXTINF:0, TEST7
+http://135.125.190.154:8080/live/tdn/tdn/719.ts
+
+
