@@ -45,3 +45,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://84.200.70.180:4442/bysid/6963
 #EXTINF:0,LCI
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+#EXTINF:0, NARUTO 
+https://fast-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5My44LjEzNy4xNzIiLCJjbWNkIjoiIiwiZXhwIjoxNzMyNDMyOTMyLCJnaWQiOiIwNDZiOTUyMy03MDdkLTQ3NjMtODFjNi1lNDM1NTQxMjE3ZDUiLCJpYXQiOjE3MzI0MTg1MzIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii92MS92MmwvcHJkLXYybC1uYXJ1dG8tMjE2NTc1NTcvMC9hZGJhY2svODJlNWE3NmEtM2JlNS00ZTIzLThhZmItZGNmYTk2ZGNhZTY0L2hscy1zZC5tM3U4Iiwic3ViIjoiMDQ2Yjk1MjMtNzA3ZC00NzYzLTgxYzYtZTQzNTU0MTIxN2Q1In0.Re0k44KbRcFQkVXmGuXSefMR2Tu4wrRETyRYqa6FaJs/v1/v2l/prd-v2l-naruto-21657557/0/adback/82e5a76a-3be5-4e23-8afb-dcfa96dcae64/hls-hd/0.m3u8
