@@ -53,3 +53,5 @@ https://m3u.iranvids.com/rai01/output.m3u8
 https://m3u.iranvids.com/rai02/output.m3u8
 #EXTINF:0,RAI3
 https://m3u.iranvids.com/rai03/output.m3u8
+#EXTINF:0,MBC 2
+https://m3u.iranvids.com/mbc02/output.m3u8
