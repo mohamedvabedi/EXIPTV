@@ -83,23 +83,23 @@ http://135.125.190.154:8080/live/tdn/tdn/716.ts
 http://135.125.190.154:8080/live/tdn/tdn/719.ts
 
 
-#EXTINF:0, TEST
+#EXTINF:0, ElDjazair N1
 http://135.125.190.154:8080/live/tdn/tdn/720.ts
 
+#EXTINF:0, ELFADJRTV
+http://135.125.190.154:8080/live/tdn/tdn/725.ts
+
 #EXTINF:0, TEST1
-http://135.125.190.154:8080/live/tdn/tdn/721.ts
+http://135.125.190.154:8080/live/tdn/tdn/726.ts
 
 #EXTINF:0, TEST2
-http://135.125.190.154:8080/live/tdn/tdn/722.ts
+http://135.125.190.154:8080/live/tdn/tdn/727.ts
 
 #EXTINF:0, TEST3
-http://135.125.190.154:8080/live/tdn/tdn/723.ts
+http://135.125.190.154:8080/live/tdn/tdn/728.ts
 
-#EXTINF:0, TEST4
-http://135.125.190.154:8080/live/tdn/tdn/724.ts
 
-#EXTINF:0, TEST5
-http://135.125.190.154:8080/live/tdn/tdn/725.ts
+
 
 
 
