@@ -43,5 +43,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://s6.hopslan.com/kika/tracks-v1a1/mono.m3u8?token=fda9a427c068c7a8a89ba2c9ac0aa551bb7a94a3-e1a1d9a2320022aad961e7a730cbd534-1732438375-1732427575
 #EXTINF:0, TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-EXTINF:0, DAZN1
+#EXTINF:0, DAZN1
 https://tens2.fghyrtbnkn.com/hls/147.m3u8?md5=tiOTo1ATSejf1x3yRsZtDQ&expires=1732460685
