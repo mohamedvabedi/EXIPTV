@@ -13,8 +13,6 @@ https://s6.hopslan.com/zdf1111/tracks-v1a1/mono.m3u8?token=03cf5cb70f79bbaf60e52
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1,Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1,TRT1
-https://cdn406.canlitv.me/trt1.m3u8?tkn=FuF1_rSRrMqvuYoEvgg4zg&tms=1732395320&hst=www.canlitv.me&ip=197.205.64.35
 #EXTINF:-1,NATURE TIME 
 https://shls-live-enc.edgenextcdn.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1, SPACETOON
