@@ -42,20 +42,7 @@ https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/p
 
 
 
-
 #EXTINF:0,BBC One NI HD
 http://84.200.70.180:4442/bysid/6963
-#EXTINF:0,BBC Two HD
-http://84.200.70.180:4442/bysid/6940
-#EXTINF:0,CBBC HD
-http://84.200.70.180:4442/bysid/6972
-#EXTINF:0,CBBC HD
-http://84.200.70.180:4442/bysid/6952
-#EXTINF:0,ETV4
-http://84.200.70.180:4442/bysid/6945
-#EXTINF:0,BBC One NI HD
-http://84.200.70.180:4442/bysid/6943
-#EXTINF:0,BBC One Y&L HD
-http://84.200.70.180:4442/bysid/6911
-#EXTINF:0,BBC One SE HD
-http://84.200.70.180:4442/bysid/6931
+#EXTINF:0,LCI
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
