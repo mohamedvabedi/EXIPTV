@@ -1,3 +1,403 @@
-#EXTM3U 
-#EXTINF:-1,ALGERIA ENTV http://teledunet.com:8080/tdn/tdn/705.ts #EXTINF:-1,CANAL ALGERIE http://teledunet.com:8080/tdn/tdn/713.ts #EXTINF:-1,ECHOROUK ALGERIA http://teledunet.com:8080/tdn/tdn/716.ts #EXTINF:-1,ECHOROUK NEWS http://teledunet.com:8080/tdn/tdn/717.ts #EXTINF:-1,EL HADDAF http://teledunet.com:8080/tdn/tdn/715.ts #EXTINF:-1,ENNAHAR ALGERIE http://teledunet.com:8080/tdn/tdn/714.ts #EXTINF:-1,SAMIRA TV http://teledunet.com:8080/tdn/tdn/719.ts #EXTINF:-1,ALBAHIYA http://teledunet.com:8080/tdn/tdn/724.ts #EXTINF:-1,ALBILAD http://teledunet.com:8080/tdn/tdn/726.ts #EXTINF:-1,ALFADJR ALGERIA http://teledunet.com:8080/tdn/tdn/725.ts #EXTINF:-1,ALGERIA 3 http://teledunet.com:8080/tdn/tdn/707.ts #EXTINF:-1,ALGERIA 4 TAMAZIGHT http://teledunet.com:8080/tdn/tdn/708.ts #EXTINF:-1,ALGERIA5 5 QURAN http://teledunet.com:8080/tdn/tdn/709.ts #EXTINF:-1,ALGERIA 6 http://teledunet.com:8080/tdn/tdn/710.ts #EXTINF:-1,ALGERIA 7 ALMAARIFA http://teledunet.com:8080/tdn/tdn/711.ts #EXTINF:-1,ALGERIA 8 ALDHAKIRA http://teledunet.com:8080/tdn/tdn/712.ts #EXTINF:-1,ALHAYAT ALGERIA http://teledunet.com:8080/tdn/tdn/728.ts #EXTINF:-1,AL MAGHARIBIA http://teledunet.com:8080/tdn/tdn/723.ts #EXTINF:-1,BERBERE TV http://teledunet.com:8080/tdn/tdn/727.ts #EXTINF:-1,DJAZAIRIA N1 http://teledunet.com:8080/tdn/tdn/720.ts
-#EXTINF:-1,ZAYTOONA http://teledunet.com:8080/tdn/tdn/282.ts #EXTINF:-1,JAWHARA TV http://teledunet.com:8080/tdn/tdn/286.ts #EXTINF:-1,MOSAIQUE FM http://teledunet.com:8080/tdn/tdn/285.ts #EXTINF:-1,RADIO IFM http://teledunet.com:8080/tdn/tdn/8146.ts #EXTINF:-1,RADIO TUNISIA http://teledunet.com:8080/tdn/tdn/8145.ts #EXTINF:-1,TUNISIA EDUCATION http://teledunet.com:8080/tdn/tdn/284
+#EXTM3U
+#EXTINF:-1,T.ME/TVTDN
+http://teledunet.com:8080/tdn/tdn/9960382.ts
+#EXTINF:-1,BEIN SPORTS 1 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456487.ts
+#EXTINF:-1,BEIN SPORTS 2 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456488.ts
+#EXTINF:-1,BEIN SPORTS 3 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456489.ts
+#EXTINF:-1,BEIN SPORTS 4 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456490.ts
+#EXTINF:-1,BEIN SPORTS 5 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456491.ts
+#EXTINF:-1,BEIN SPORTS 6 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456492.ts
+#EXTINF:-1,BEIN SPORTS 7 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456493.ts
+#EXTINF:-1,BEIN SPORTS 8 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456494.ts
+#EXTINF:-1,BEIN SPORTS 9 [ TELEDUNET ]
+http://teledunet.com:8080/tdn/tdn/456495.ts
+#EXTINF:-1,ALKASS 1
+http://teledunet.com:8080/tdn/tdn/68149.ts
+#EXTINF:-1,ALKASS 2
+http://teledunet.com:8080/tdn/tdn/68150.ts
+#EXTINF:-1,ALKASS 3
+http://teledunet.com:8080/tdn/tdn/68151.ts
+#EXTINF:-1,ALKASS 4
+http://teledunet.com:8080/tdn/tdn/68152.ts
+#EXTINF:-1,ALKASS 5
+http://teledunet.com:8080/tdn/tdn/68153.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://teledunet.com:8080/tdn/tdn/9959424.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://teledunet.com:8080/tdn/tdn/9959425.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://teledunet.com:8080/tdn/tdn/9959426.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://teledunet.com:8080/tdn/tdn/9959427.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://teledunet.com:8080/tdn/tdn/9959428.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://teledunet.com:8080/tdn/tdn/9959429.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://teledunet.com:8080/tdn/tdn/9959430.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://teledunet.com:8080/tdn/tdn/9959431.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://teledunet.com:8080/tdn/tdn/9959432.ts
+#EXTINF:-1,SSC NEWS
+http://teledunet.com:8080/tdn/tdn/44438.ts
+#EXTINF:-1,SSC 1
+http://teledunet.com:8080/tdn/tdn/65353.ts
+#EXTINF:-1,SSC 1 *
+http://teledunet.com:8080/tdn/tdn/44440.ts
+#EXTINF:-1,SSC 2
+http://teledunet.com:8080/tdn/tdn/44443.ts
+#EXTINF:-1,SSC 3
+http://teledunet.com:8080/tdn/tdn/44446.ts
+#EXTINF:-1,SSC 4
+http://teledunet.com:8080/tdn/tdn/44449.ts
+#EXTINF:-1,SSC 5
+http://teledunet.com:8080/tdn/tdn/44452.ts
+#EXTINF:-1,SSC EXTRA 1
+http://teledunet.com:8080/tdn/tdn/44455.ts
+#EXTINF:-1,SSC EXTRA 2
+http://teledunet.com:8080/tdn/tdn/44458.ts
+#EXTINF:-1,SSC EXTRA 3
+http://teledunet.com:8080/tdn/tdn/44461.ts
+#EXTINF:-1,ALJAZEERA NEWS
+http://teledunet.com:8080/tdn/tdn/1.ts
+#EXTINF:-1,ALJAZEERA NEWS *
+http://teledunet.com:8080/tdn/tdn/2.ts
+#EXTINF:-1,FOX NEWS
+http://teledunet.com:8080/tdn/tdn/18.ts
+#EXTINF:-1,SKY NEWS ARABIC
+http://teledunet.com:8080/tdn/tdn/16.ts
+#EXTINF:-1,ALJAZEERA ENGLISH
+http://teledunet.com:8080/tdn/tdn/4.ts
+#EXTINF:-1,ALJAZEERA MUBASHER
+http://teledunet.com:8080/tdn/tdn/3.ts
+#EXTINF:-1,AL ARABIYA
+http://teledunet.com:8080/tdn/tdn/5.ts
+#EXTINF:-1,AL ARABIYA HADATH
+http://teledunet.com:8080/tdn/tdn/6.ts
+#EXTINF:-1,FRANCE 24 ARABIC
+http://teledunet.com:8080/tdn/tdn/7.ts
+#EXTINF:-1,ALARABY NEWS
+http://teledunet.com:8080/tdn/tdn/14.ts
+#EXTINF:-1,ALHURRA IRAQ
+http://teledunet.com:8080/tdn/tdn/23.ts
+#EXTINF:-1,ALGHAD
+http://teledunet.com:8080/tdn/tdn/19.ts
+#EXTINF:-1,CP24
+http://teledunet.com:8080/tdn/tdn/21.ts
+#EXTINF:-1,CNN AMERICA
+http://teledunet.com:8080/tdn/tdn/11.ts
+#EXTINF:-1,AL HIWAR NEWS
+http://teledunet.com:8080/tdn/tdn/9.ts
+#EXTINF:-1,AL MEKAMELEN
+http://teledunet.com:8080/tdn/tdn/10.ts
+#EXTINF:-1,AL QAHERA NEWS
+http://teledunet.com:8080/tdn/tdn/54057.ts
+#EXTINF:-1,ALSHARQ NEWS
+http://teledunet.com:8080/tdn/tdn/13.ts
+#EXTINF:-1,BBC NEWS
+http://teledunet.com:8080/tdn/tdn/15.ts
+#EXTINF:-1,CGTN ARABIC
+http://teledunet.com:8080/tdn/tdn/52840.ts
+#EXTINF:-1,CNBC NEWS
+http://teledunet.com:8080/tdn/tdn/20.ts
+#EXTINF:-1,DW ARABIC
+http://teledunet.com:8080/tdn/tdn/12.ts
+#EXTINF:-1,RUSSIA TODAY
+http://teledunet.com:8080/tdn/tdn/8.ts
+#EXTINF:-1,TRT TURKEY ARABIC
+http://teledunet.com:8080/tdn/tdn/17.ts
+#EXTINF:-1,I24 NEWS
+http://teledunet.com:8080/tdn/tdn/54060.ts
+#EXTINF:-1,TELE LEBANON
+http://teledunet.com:8080/tdn/tdn/305.ts
+#EXTINF:-1,ALJADEED
+http://teledunet.com:8080/tdn/tdn/289.ts
+#EXTINF:-1,MTV LEBANON
+http://teledunet.com:8080/tdn/tdn/291.ts
+#EXTINF:-1,LBCI
+http://teledunet.com:8080/tdn/tdn/297.ts
+#EXTINF:-1,OTV
+http://teledunet.com:8080/tdn/tdn/293.ts
+#EXTINF:-1,ALMAYADEEN
+http://teledunet.com:8080/tdn/tdn/301.ts
+#EXTINF:-1,NBN
+http://teledunet.com:8080/tdn/tdn/299.ts
+#EXTINF:-1,ALMANAR
+http://teledunet.com:8080/tdn/tdn/302.ts
+#EXTINF:-1,LBC
+http://teledunet.com:8080/tdn/tdn/304.ts
+#EXTINF:-1,TAHA
+http://teledunet.com:8080/tdn/tdn/303.ts
+#EXTINF:-1,ARABICA LEBANON
+http://teledunet.com:8080/tdn/tdn/296.ts
+#EXTINF:-1,ONE LEBANON
+http://teledunet.com:8080/tdn/tdn/295.ts
+#EXTINF:-1,HAWACOM
+http://teledunet.com:8080/tdn/tdn/306.ts
+#EXTINF:-1,AGHANI
+http://teledunet.com:8080/tdn/tdn/307.ts
+#EXTINF:-1,AL SIRAT
+http://teledunet.com:8080/tdn/tdn/308.ts
+#EXTINF:-1,CHARITY TV
+http://teledunet.com:8080/tdn/tdn/70704.ts
+#EXTINF:-1,AL IMAN
+http://teledunet.com:8080/tdn/tdn/309.ts
+#EXTINF:-1,NOOR QUDDAS
+http://teledunet.com:8080/tdn/tdn/313.ts
+#EXTINF:-1,NOORSAT
+http://teledunet.com:8080/tdn/tdn/310.ts
+#EXTINF:-1,NOORSAT CHARQ
+http://teledunet.com:8080/tdn/tdn/312.ts
+#EXTINF:-1,NOORSAT MARIEM
+http://teledunet.com:8080/tdn/tdn/311.ts
+#EXTINF:-1,ON TIME SPORTS 1
+http://teledunet.com:8080/tdn/tdn/235.ts
+#EXTINF:-1,ON TIME SPORTS 2
+http://teledunet.com:8080/tdn/tdn/236.ts
+#EXTINF:-1,SPORT24
+http://teledunet.com:8080/tdn/tdn/9959441.ts
+#EXTINF:-1,ALAHLY
+http://teledunet.com:8080/tdn/tdn/239.ts
+#EXTINF:-1,ZAMALEK
+http://teledunet.com:8080/tdn/tdn/238.ts
+#EXTINF:-1,NILE SPORTS
+http://teledunet.com:8080/tdn/tdn/240.ts
+#EXTINF:-1,MISR ELBALAD
+http://teledunet.com:8080/tdn/tdn/9959442.ts
+#EXTINF:-1,ALHAYAT EGYPT
+http://teledunet.com:8080/tdn/tdn/332.ts
+#EXTINF:-1,ALHAYAT MUSALSALAT
+http://teledunet.com:8080/tdn/tdn/333.ts
+#EXTINF:-1,MBC MASR
+http://teledunet.com:8080/tdn/tdn/323.ts
+#EXTINF:-1,DMC
+http://teledunet.com:8080/tdn/tdn/324.ts
+#EXTINF:-1,DMC DRAMA
+http://teledunet.com:8080/tdn/tdn/326.ts
+#EXTINF:-1,ON EGYPT
+http://teledunet.com:8080/tdn/tdn/320.ts
+#EXTINF:-1,ON DRAMA
+http://teledunet.com:8080/tdn/tdn/322.ts
+#EXTINF:-1,CBC
+http://teledunet.com:8080/tdn/tdn/318.ts
+#EXTINF:-1,CBC DRAMA
+http://teledunet.com:8080/tdn/tdn/52818.ts
+#EXTINF:-1,CBC QURAN KAREEM
+http://teledunet.com:8080/tdn/tdn/28.ts
+#EXTINF:-1,CBC SOFRA EGYPT
+http://teledunet.com:8080/tdn/tdn/331.ts
+#EXTINF:-1,CBC XTRA NEWS
+http://teledunet.com:8080/tdn/tdn/329.ts
+#EXTINF:-1,ALHAYAT WE ALNASS
+http://teledunet.com:8080/tdn/tdn/369.ts
+#EXTINF:-1,EGYPT TV
+http://teledunet.com:8080/tdn/tdn/334.ts
+#EXTINF:-1,AL MASRIYAH
+http://teledunet.com:8080/tdn/tdn/335.ts
+#EXTINF:-1,ALOULA EGYPT
+http://teledunet.com:8080/tdn/tdn/336.ts
+#EXTINF:-1,ALTHANIYA EGYPT
+http://teledunet.com:8080/tdn/tdn/337.ts
+#EXTINF:-1,AL KAHERA
+http://teledunet.com:8080/tdn/tdn/54061.ts
+#EXTINF:-1,ALKANAL
+http://teledunet.com:8080/tdn/tdn/54055.ts
+#EXTINF:-1,ALASKANDRIA
+http://teledunet.com:8080/tdn/tdn/54050.ts
+#EXTINF:-1,AL DELTA
+http://teledunet.com:8080/tdn/tdn/8214.ts
+#EXTINF:-1,AL SA3EED
+http://teledunet.com:8080/tdn/tdn/362.ts
+#EXTINF:-1,ALMEHWAR
+http://teledunet.com:8080/tdn/tdn/327.ts
+#EXTINF:-1,AL QAHERA NEWS EGYPT [VIP]
+http://teledunet.com:8080/tdn/tdn/363.ts
+#EXTINF:-1,ALKAHERA W NESS
+http://teledunet.com:8080/tdn/tdn/338.ts
+#EXTINF:-1,ALKAHERA W NESS 2
+http://teledunet.com:8080/tdn/tdn/339.ts
+#EXTINF:-1,ALNAHAR
+http://teledunet.com:8080/tdn/tdn/340.ts
+#EXTINF:-1,ALNAHAR DRAMA
+http://teledunet.com:8080/tdn/tdn/341.ts
+#EXTINF:-1,NILE CINEMA
+http://teledunet.com:8080/tdn/tdn/351.ts
+#EXTINF:-1,NILE COMEDY
+http://teledunet.com:8080/tdn/tdn/352.ts
+#EXTINF:-1,NILE DRAMA
+http://teledunet.com:8080/tdn/tdn/353.ts
+#EXTINF:-1,NILE INT
+http://teledunet.com:8080/tdn/tdn/355.ts
+#EXTINF:-1,NILE NEWS
+http://teledunet.com:8080/tdn/tdn/354.ts
+#EXTINF:-1,PANORAMA DRAMA
+http://teledunet.com:8080/tdn/tdn/359.ts
+#EXTINF:-1,PANORAMA DRAMA 2
+http://teledunet.com:8080/tdn/tdn/360.ts
+#EXTINF:-1,PANORAMA FILM
+http://teledunet.com:8080/tdn/tdn/361.ts
+#EXTINF:-1,PANORAMA FOOD
+http://teledunet.com:8080/tdn/tdn/358.ts
+#EXTINF:-1,TEN EGYPT
+http://teledunet.com:8080/tdn/tdn/342.ts
+#EXTINF:-1,SADA ALBALAD
+http://teledunet.com:8080/tdn/tdn/343.ts
+#EXTINF:-1,SADA ALBALAD 2
+http://teledunet.com:8080/tdn/tdn/344.ts
+#EXTINF:-1,SADA ALBALAD DRAMA
+http://teledunet.com:8080/tdn/tdn/345.ts
+#EXTINF:-1,CIMA
+http://teledunet.com:8080/tdn/tdn/348.ts
+#EXTINF:-1,MASPERO ZAMAN
+http://teledunet.com:8080/tdn/tdn/349.ts
+#EXTINF:-1,AL SEHA WA ALJAMEL
+http://teledunet.com:8080/tdn/tdn/346.ts
+#EXTINF:-1,ELMOLED
+http://teledunet.com:8080/tdn/tdn/347.ts
+#EXTINF:-1,CINEMA 1
+http://teledunet.com:8080/tdn/tdn/364.ts
+#EXTINF:-1,CINEMA 2
+http://teledunet.com:8080/tdn/tdn/365.ts
+#EXTINF:-1,B4U AFLAM
+http://teledunet.com:8080/tdn/tdn/368.ts
+#EXTINF:-1,MAZZIKA
+http://teledunet.com:8080/tdn/tdn/356.ts
+#EXTINF:-1,MISR ALZIRA3IA
+http://teledunet.com:8080/tdn/tdn/370.ts
+#EXTINF:-1,STAR CINEMA
+http://teledunet.com:8080/tdn/tdn/366.ts
+#EXTINF:-1,MIX ONE
+http://teledunet.com:8080/tdn/tdn/9959174.ts
+#EXTINF:-1,MIX HOLLYWOOD
+http://teledunet.com:8080/tdn/tdn/9959175.ts
+#EXTINF:-1,WEYYAK MIX
+http://teledunet.com:8080/tdn/tdn/9959176.ts
+#EXTINF:-1,NETFLIX MIX
+http://teledunet.com:8080/tdn/tdn/9959177.ts
+#EXTINF:-1,ARRYADIA
+http://teledunet.com:8080/tdn/tdn/692.ts
+#EXTINF:-1,ARRIADIA TNT
+http://teledunet.com:8080/tdn/tdn/9959138.ts
+#EXTINF:-1,ASSABIA AFLAM MAROC
+http://teledunet.com:8080/tdn/tdn/703.ts
+#EXTINF:-1,ALOULA MAROC TNT
+http://teledunet.com:8080/tdn/tdn/9959137.ts
+#EXTINF:-1,ALOULA MAROC
+http://teledunet.com:8080/tdn/tdn/694.ts
+#EXTINF:-1,ALMAGHRIBYA
+http://teledunet.com:8080/tdn/tdn/696.ts
+#EXTINF:-1,2M INTERNATIONAL
+http://teledunet.com:8080/tdn/tdn/691.ts
+#EXTINF:-1,2M
+http://teledunet.com:8080/tdn/tdn/690.ts
+#EXTINF:-1,TELE MAROC
+http://teledunet.com:8080/tdn/tdn/693.ts
+#EXTINF:-1,CHADA TV
+http://teledunet.com:8080/tdn/tdn/704.ts
+#EXTINF:-1,M24
+http://teledunet.com:8080/tdn/tdn/695.ts
+#EXTINF:-1,MEDI 1 SAT 1
+http://teledunet.com:8080/tdn/tdn/697.ts
+#EXTINF:-1,AL ONS TV
+http://teledunet.com:8080/tdn/tdn/54049.ts
+#EXTINF:-1,AL OULA AYOUN
+http://teledunet.com:8080/tdn/tdn/698.ts
+#EXTINF:-1,ALSADISSA
+http://teledunet.com:8080/tdn/tdn/700.ts
+#EXTINF:-1,AL THAKAFIA
+http://teledunet.com:8080/tdn/tdn/702.ts
+#EXTINF:-1,CANAL ATLAS
+http://teledunet.com:8080/tdn/tdn/44332.ts
+#EXTINF:-1,TAMAZIGHT MAROC
+http://teledunet.com:8080/tdn/tdn/701.ts
+#EXTINF:-1,TUNISIA NAT 1
+http://teledunet.com:8080/tdn/tdn/260.ts
+#EXTINF:-1,TUNISIA NAT 1 *
+http://teledunet.com:8080/tdn/tdn/261.ts
+#EXTINF:-1,TUNISIA NAT 2
+http://teledunet.com:8080/tdn/tdn/270.ts
+#EXTINF:-1,TUNISIA NAT 2 *
+http://teledunet.com:8080/tdn/tdn/271.ts
+#EXTINF:-1,ALHIWAR TUNISIA
+http://teledunet.com:8080/tdn/tdn/263.ts
+#EXTINF:-1,NESSMA
+http://teledunet.com:8080/tdn/tdn/273.ts
+#EXTINF:-1,HANIBAL
+http://teledunet.com:8080/tdn/tdn/275.ts
+#EXTINF:-1,AL TASSIA
+http://teledunet.com:8080/tdn/tdn/265.ts
+#EXTINF:-1,TELVZA TV
+http://teledunet.com:8080/tdn/tdn/280.ts
+#EXTINF:-1,CARTHAGE+
+http://teledunet.com:8080/tdn/tdn/276.ts
+#EXTINF:-1,TUNISNA
+http://teledunet.com:8080/tdn/tdn/278.ts
+#EXTINF:-1,ALINSAN
+http://teledunet.com:8080/tdn/tdn/283.ts
+#EXTINF:-1,ALJANOUBIYA
+http://teledunet.com:8080/tdn/tdn/281.ts
+#EXTINF:-1,ALMUSTAKILLA
+http://teledunet.com:8080/tdn/tdn/287.ts
+#EXTINF:-1,SAHEL TV
+http://teledunet.com:8080/tdn/tdn/288.ts
+#EXTINF:-1,ZAYTOONA
+http://teledunet.com:8080/tdn/tdn/282.ts
+#EXTINF:-1,JAWHARA TV
+http://teledunet.com:8080/tdn/tdn/286.ts
+#EXTINF:-1,MOSAIQUE FM
+http://teledunet.com:8080/tdn/tdn/285.ts
+#EXTINF:-1,RADIO IFM
+http://teledunet.com:8080/tdn/tdn/8146.ts
+#EXTINF:-1,RADIO TUNISIA
+http://teledunet.com:8080/tdn/tdn/8145.ts
+#EXTINF:-1,TUNISIA EDUCATION
+http://teledunet.com:8080/tdn/tdn/284.ts
+#EXTINF:-1,ALGERIA ENTV
+http://teledunet.com:8080/tdn/tdn/705.ts
+#EXTINF:-1,CANAL ALGERIE
+http://teledunet.com:8080/tdn/tdn/713.ts
+#EXTINF:-1,ECHOROUK ALGERIA
+http://teledunet.com:8080/tdn/tdn/716.ts
+#EXTINF:-1,ECHOROUK NEWS
+http://teledunet.com:8080/tdn/tdn/717.ts
+#EXTINF:-1,EL HADDAF
+http://teledunet.com:8080/tdn/tdn/715.ts
+#EXTINF:-1,ENNAHAR ALGERIE
+http://teledunet.com:8080/tdn/tdn/714.ts
+#EXTINF:-1,SAMIRA TV
+http://teledunet.com:8080/tdn/tdn/719.ts
+#EXTINF:-1,ALBAHIYA
+http://teledunet.com:8080/tdn/tdn/724.ts
+#EXTINF:-1,ALBILAD
+http://teledunet.com:8080/tdn/tdn/726.ts
+#EXTINF:-1,ALFADJR ALGERIA
+http://teledunet.com:8080/tdn/tdn/725.ts
+#EXTINF:-1,ALGERIA 3
+http://teledunet.com:8080/tdn/tdn/707.ts
+#EXTINF:-1,ALGERIA 4 TAMAZIGHT
+http://teledunet.com:8080/tdn/tdn/708.ts
+#EXTINF:-1,ALGERIA5 5 QURAN
+http://teledunet.com:8080/tdn/tdn/709.ts
+#EXTINF:-1,ALGERIA 6
+http://teledunet.com:8080/tdn/tdn/710.ts
+#EXTINF:-1,ALGERIA 7 ALMAARIFA
+http://teledunet.com:8080/tdn/tdn/711.ts
+#EXTINF:-1,ALGERIA 8 ALDHAKIRA
+http://teledunet.com:8080/tdn/tdn/712.ts
+#EXTINF:-1,ALHAYAT ALGERIA
+http://teledunet.com:8080/tdn/tdn/728.ts
+#EXTINF:-1,AL MAGHARIBIA
+http://teledunet.com:8080/tdn/tdn/723.ts
+#EXTINF:-1,BERBERE TV
+http://teledunet.com:8080/tdn/tdn/727.ts
+#EXTINF:-1,DJAZAIRIA N1
+http://teledunet.com:8080/tdn/tdn/720.ts
