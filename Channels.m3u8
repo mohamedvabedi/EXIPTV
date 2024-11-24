@@ -59,3 +59,6 @@ http://135.125.190.154:8080/live/tdn/tdn/707.ts
 
 #EXTINF:0, TEST1
 http://135.125.190.154:8080/live/tdn/tdn/709.ts
+
+#EXTINF:0, TEST2
+http://135.125.190.154:8080/live/tdn/tdn/710.ts
