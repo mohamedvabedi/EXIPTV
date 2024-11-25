@@ -3,3 +3,5 @@
 http://teledunet.com:8080/tdn/tdn/1.ts
 #EXTINF:-1, TEST
 http://teledunet.com:8080/tdn/tdn/2.ts
+#EXTINF:-1, TEST
+http://teledunet.com:8080/tdn/tdn/3.ts
