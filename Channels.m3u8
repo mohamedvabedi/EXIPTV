@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, TEST
-http://teledunet.com:8080/live/tdn/tdn/1.ts
+http://teledunet.com:8080tdn/tdn/1.ts
 #EXTINF:-1, TEST
-http://teledunet.com:8080/live/tdn/tdn/2.ts
+http://teledunet.com:8080tdn/tdn/2.ts
