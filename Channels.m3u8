@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Antena 3
 http://190.217.22.156:18000/play/a01z
+EXTINF:-1, TEST
+https://teledunet.com:8080/live/tdn/tdn/1.ts
