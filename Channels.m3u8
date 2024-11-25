@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, TEST
-http://teledunet.com:8080/tdn/tdn/1.ts
-#EXTINF:-1, TEST
+#EXTINF:-1, ALJAZEERA 
 http://teledunet.com:8080/tdn/tdn/2.ts
-#EXTINF:-1, TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1, ALJAZEERA MUBASHER
+http://teledunet.com:8080/tdn/tdn/3.ts
+#EXTINF:-1, ALJAZEERA ENGLISH
+http://teledunet.com:8080/tdn/tdn/4.ts
+#EXTINF:-1, ALARABYA
+http://teledunet.com:8080/tdn/tdn/5.ts
