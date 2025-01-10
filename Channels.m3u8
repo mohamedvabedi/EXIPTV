@@ -23,7 +23,7 @@ https://yhjkrf.site/chunklist/hlsch11.m3u8
 https://yhjkrf.site/chunklist/hlsch12.m3u8
 #EXTINF:0 group-title="SPORTS" ,NBA
 https://yhjkrf.site/chunklist/hlsch13.m3u8
-#EXTINF:0 ,SPORT TV 4
+#EXTINF:0 group-title="SPORTS" ,SPORT TV 4
 https://yhjkrf.site/chunklist/hlsch16.m3u8
 #EXTINF:0 group-title="SPORTS" ,SKY SPORT MIX
 https://yhjkrf.site/chunklist/hlsch17.m3u8
@@ -36,7 +36,4 @@ https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:0 group-title="FRANCE" ,TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:0 group-title="SPORTS" ,TSN 5
-https://yhjkrf.site/chunklist/hlsch15.m3u8
-#EXTINF:0 group-title="FRANCE" ,FRANCE 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 
