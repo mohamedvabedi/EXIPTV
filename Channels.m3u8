@@ -43,5 +43,17 @@ https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae763
 https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:0 group-title="MBC GROUPE" ,MBC ACTION
 https://edge66.magictvbox.com/liveApple/MBC_Action/index.m3u8
+#EXTINF:0 group-title="MBC GROUPE" ,MBC 3
+https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:0 group-title="MBC GROUPE" ,MBC 4
+https://mbc4-prod-dub-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:0 group-title="MBC GROUPE" ,MBC 5
+https://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:0 group-title="ALGERIE" ,ELBILAD
+https://edge66.magictvbox.com/liveApple/El_Bilad_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ALGERIE" ,ELHAYAT
+https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/chunks.m3u8
+#EXTINF:0 group-title="DOCS" ,ALJAZEERA DOC
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 
