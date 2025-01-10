@@ -75,6 +75,7 @@ http://99.27.51.147:8080/TMC/tracks-v1a1/mono.m3u8
 http://99.27.51.147:8080/RTL9/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="FRANCE" ,ACTION
 http://99.27.51.147:8080/ACTION/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 group-title="PREMIER BAISER" ,PREMIER BAISER 001
+https://www.youtube.com/watch?v=iX5BpK2qopc&list=PLfbMw6XUazMFajhw5MfyL2URp27XV1OUO
 
 
