@@ -55,5 +55,13 @@ https://edge66.magictvbox.com/liveApple/El_Bilad_TV/tracks-v1a1/mono.m3u8
 https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/chunks.m3u8
 #EXTINF:0 group-title="DOCS" ,ALJAZEERA DOC
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0 group-title="FRANCE" ,FRANCE 2
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/2.m3u8
+#EXTINF:0 group-title="FRANCE" ,TF1
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
+#EXTINF:0 group-title="FRANCE" ,FRANCE 3
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/3.m3u8
+#EXTINF:0 group-title="FRANCE" ,FRANCE 5
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/5.m3u8
 
 
