@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:0 group-title="GERMANY" ,ard1
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:0 group-title="GERMANY" ,ZDF
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:0 group-title="GERMANY" ,RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:0 group-title="GERMANY" ,RTL2
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+#EXTINF:0 group-title="GERMANY" ,NTV
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:0 group-title="GERMANY" ,VOX
+https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:0 group-title="GERMANY" ,SAT1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:0 group-title="GERMANY" ,PRO7
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:0 group-title="GERMANY" ,KABEL1
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:0 group-title="GERMANY" ,ZDF NEO
+https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
+#EXTINF:0 group-title="GERMANY" ,RTL NITRO
+https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTINF:0 group-title="GERMANY" ,TELE5
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+#EXTINF:0 group-title="GERMANY" ,ORF1
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:0 group-title="GERMANY" ,ORF2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:0 group-title="GERMANY" ,SAT1 GOLD
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:0 group-title="GERMANY" ,SEVRUS
+https://strm.hdtvizlecanli.com/live/servus.m3u8
+#EXTINF:0 group-title="GERMANY" ,N24
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+#EXTINF:0 group-title="GERMANY" ,NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:0 group-title="GERMANY" ,BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,SIXX
+https://strm.hdtvizlecanli.com/live/six.m3u8
+#EXTINF:0 group-title="GERMANY" ,SUPER RTL
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+#EXTINF:0 group-title="GERMANY" ,DMAX
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+#EXTINF:0 group-title="GERMANY" ,CC
+https://strm.hdtvizlecanli.com/live/comedy.m3u8
+#EXTINF:0 group-title="GERMANY" ,TLC
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:0 group-title="GERMANY" ,KABEL1 DOKU
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+#EXTINF:0 group-title="GERMANY" ,PRO7 MAXX
+https://strm.hdtvizlecanli.com/live/pro7max.m3u8
+#EXTINF:0 group-title="GERMANY" ,ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:0 group-title="GERMANY" ,HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:0 group-title="GERMANY" ,KIKA
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:0 group-title="GERMANY" ,REDBULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
