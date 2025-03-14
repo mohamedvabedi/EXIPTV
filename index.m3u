@@ -777,6 +777,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTM3U
+#EXTINF:0 group-title="FRENCH" ,TEST
+https://s2.callofliberty.fr/coltv/france.5/master.m3u8?callofliberty=d3adaf023a6a4f71a9beea08d60c67f35e20db8b
 #EXTINF:0 group-title="FRENCH" ,6TER
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/159.m3u8
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" ,Action
