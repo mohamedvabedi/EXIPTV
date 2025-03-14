@@ -777,78 +777,237 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTM3U
-#EXTINF:0 group-title="FRENCH" ,TF1
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/87.m3u8
-#EXTINF:0 group-title="FRENCH" ,FRANCE 2
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/137.m3u8
-#EXTINF:0 group-title="FRENCH" ,FRANCE 3
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/138.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/106.m3u8
+#EXTINF:0 group-title="FRENCH" ,6TER
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/159.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" ,Action
+http://178.170.42.126/ACTION/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" ,Animaux
+http://178.170.42.126/ANIMAUX/index.m3u8
 #EXTINF:0 group-title="FRENCH" ,ARTE
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/234.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ SPORT 360
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/58.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ FOOT
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/88.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ SPORT
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/54.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ CINEMA
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/139.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ SERIES
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/141.m3u8
-#EXTINF:0 group-title="FRENCH" ,OCS
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/156.m3u8
-#EXTINF:0 group-title="FRENCH" ,CINE+ FRISSON
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/201.m3u8
-#EXTINF:0 group-title="FRENCH" ,CINE+ EMOTION
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/200.m3u8
-#EXTINF:0 group-title="FRENCH" ,CINE+ CLASSIC
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/199.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ SERIES
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/141.m3u8
-#EXTINF:0 group-title="FRENCH" ,WARNER
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/183.m3u8
-#EXTINF:0 group-title="FRENCH" ,RTL9
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/237.m3u8
-#EXTINF:0 group-title="FRENCH" ,NOVELAS
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/103.m3u8
-#EXTINF:0 group-title="FRENCH" ,TF1 SERIE FILM
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/215.m3u8
-#EXTINF:0 group-title="FRENCH" ,BEIN SPORTS 1
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/44.m3u8
+#EXTINF:0 group-title="FRENCH" ,Automoto
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/155
 #EXTINF:0 group-title="FRENCH" ,BEIN SPORT 2
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/49.m3u8
 #EXTINF:0 group-title="FRENCH" ,BEIN SPORT 3
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/50.m3u8
+#EXTINF:0 group-title="FRENCH" ,BEIN SPORTS 1
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/44.m3u8
+#EXTINF:0 group-title="FRENCH" ,BFM TV
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/169
+#EXTINF:0 group-title="FRENCH" ,Boing
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/203
+#EXTINF:0 group-title="FRENCH" ,Boomerang
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/180
+#EXTINF:0 group-title="FRENCH" ,C News
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/171
+#EXTINF:0 group-title="FRENCH" ,Canal J
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/179
+#EXTINF:0 group-title="FRENCH" ,Canal Play 1
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/193
+#EXTINF:0 group-title="FRENCH" ,Canal Play 2
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/194
+#EXTINF:0 group-title="FRENCH" ,Canal Play 3
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/195
+#EXTINF:0 group-title="FRENCH" ,Canal Play 4
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/196
+#EXTINF:0 group-title="FRENCH" ,Canal Play 5
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/197
+#EXTINF:0 group-title="FRENCH" ,CANAL Plus Formula 1
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/89
+#EXTINF:0 group-title="FRENCH" ,CANAL+
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/106.m3u8
+#EXTINF:0 group-title="FRENCH" ,CANAL+ ACTION
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/116
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" ,Canal+ Box Office
+http://178.170.42.126/CANALBOXOFFICE/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,CANAL+ CINEMA
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/139.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3347.png" ,Canal+ Docs
+http://178.170.42.126/CANALDOCS/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,CANAL+ FOOT
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/88.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3349.png" ,Canal+ Grand Écran
+http://178.170.42.126/CANALGRANDECRAN/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" ,Canal+ Kids
+http://178.170.42.126/CANALKIDS/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,Canal+ Moto GP
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/112
+#EXTINF:0 group-title="FRENCH" ,CANAL+ SERIES
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/141.m3u8
+#EXTINF:0 group-title="FRENCH" ,CANAL+ SPORT
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/54.m3u8
+#EXTINF:0 group-title="FRENCH" ,Canal+ Sport 1
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/55
+#EXTINF:0 group-title="FRENCH" ,Canal+ Sport 2
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/56
+#EXTINF:0 group-title="FRENCH" ,Canal+ Sport 3
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/57
+#EXTINF:0 group-title="FRENCH" ,CANAL+ SPORT 360
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/58.m3u8
+#EXTINF:0 group-title="FRENCH" ,Canal+ Sport 4
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/161
+#EXTINF:0 group-title="FRENCH" ,Canal+ Sport 5
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/162
+#EXTINF:0 group-title="FRENCH" ,Cartoon Network
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/76
+#EXTINF:0 group-title="FRENCH" ,CINE+ CLASSIC
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/199.m3u8
+#EXTINF:0 group-title="FRENCH" ,CINE+ EMOTION
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/200.m3u8
+#EXTINF:0 group-title="FRENCH" ,Cine+ Family
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/198
+#EXTINF:0 group-title="FRENCH" ,CINE+ FRISSON
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/201.m3u8
+#EXTINF:0 group-title="FRENCH" ,Cine+ Premier
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/202
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" ,Ciné+ OCS
+http://178.170.42.126/CINEPREMIER/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" ,Crime District
+http://178.170.42.126/CRIMEDISTRICT/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,CSTAR
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/204.m3u8
+#EXTINF:0 group-title="FRENCH" ,DAZN 1
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/150.m3u8
+#EXTINF:0 group-title="FRENCH" ,DAZN 2
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/151
+#EXTINF:0 group-title="FRENCH" ,DAZN 3
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/160
+#EXTINF:0 group-title="FRENCH" ,DISCOVERY
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/186.m3u8
+#EXTINF:-1 group-title="FRENCH" ,Discovery Investigation
+http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,Discovery Science
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/185
+#EXTINF:-1 group-title="FRENCH" ,Discovery TLC
+http://178.170.42.126/DISCOVERYSCIENCE/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,Disney Channel
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/205
+#EXTINF:0 group-title="FRENCH" ,Disney Junior
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/206
+#EXTINF:0 group-title="FRENCH" ,EQUIPE
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/113.m3u8
+#EXTINF:0 group-title="FRENCH" ,Euronews
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/170
 #EXTINF:0 group-title="FRENCH" ,EUROSPORT 1
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/59.m3u8
 #EXTINF:0 group-title="FRENCH" ,EUROSPORT 2
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/60.m3u8
-#EXTINF:0 group-title="FRENCH" ,DAZN 1
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/150.m3u8
-#EXTINF:0 group-title="FRENCH" ,EQUIPE
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/113.m3u8
-#EXTINF:0 group-title="FRENCH" ,W9
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/79.m3u8
+#EXTINF:0 group-title="FRENCH" ,FRANCE 2
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/137.m3u8
+#EXTINF:0 group-title="FRENCH" ,France 24
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/173
+#EXTINF:0 group-title="FRENCH" ,FRANCE 3
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/138.m3u8
+#EXTINF:0 group-title="FRENCH" ,Game One
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/104
+#EXTINF:0 group-title="FRENCH" ,GameToon
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/207
+#EXTINF:0 group-title="FRENCH" ,Gulli
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/208
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" ,Histoire
+http://178.170.42.126/HISTOIRE/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" ,Infosport+
+http://178.170.42.126/INFOSPORT/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,J-One
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/176
+#EXTINF:0 group-title="FRENCH" ,L'équipe Live 1
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/163
+#EXTINF:0 group-title="FRENCH" ,L'équipe Live 2
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/164
+#EXTINF:0 group-title="FRENCH" ,L'équipe Live 3
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/165
+#EXTINF:0 group-title="FRENCH" ,LCI
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/209
 #EXTINF:0 group-title="FRENCH" ,M6
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/102.m3u8
-#EXTINF:0 group-title="FRENCH" ,TMC
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/78.m3u8
-#EXTINF:0 group-title="FRENCH" ,TFX
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/77.m3u8
-#EXTINF:0 group-title="FRENCH" ,CSTAR
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/204.m3u8
-#EXTINF:0 group-title="FRENCH" ,6TER
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/159.m3u8
-#EXTINF:0 group-title="FRENCH" ,RMC STORY
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/80.m3u8
-#EXTINF:0 group-title="FRENCH" ,TV5 MONDE FBSM
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/172.m3u8
+#EXTINF:0 group-title="FRENCH" ,M6 Music
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/110
+#EXTINF:0 group-title="FRENCH" ,Mangas
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/97
+#EXTINF:0 group-title="FRENCH" ,MCM
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/210
+#EXTINF:0 group-title="FRENCH" ,Melody
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/211
+#EXTINF:0 group-title="FRENCH" ,MTV
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/111
+#EXTINF:0 group-title="FRENCH" ,MTV Hits
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/212
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-719.png" ,Nat Geo Wild
+http://178.170.42.126/NATGEOWILD/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-243.png" ,National Geographic Channel
+http://178.170.42.126/NATGEO/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,Nickelodeon
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/178
+#EXTINF:0 group-title="FRENCH" ,NOVELAS
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/103.m3u8
+#EXTINF:0 group-title="FRENCH" ,NRJ Hits
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/109
+#EXTINF:0 group-title="FRENCH" ,OCS
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/156.m3u8
+#EXTINF:0 group-title="FRENCH" ,OCS Géants
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/157
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1562.png" ,Paramount Channel
+http://178.170.42.126/PARAMOUNT/index.m3u8
 #EXTINF:0 group-title="FRENCH" ,PLANETE+ AVENTURE
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/187.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-147.png" ,Planète+
+http://178.170.42.126/PLANETEPLUS/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-662.png" ,Planète+ Crime
+http://178.170.42.126/PLANETEPLUSCI/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png" ,RMC Découverte
+http://178.170.42.126/RMCDECOUVERTE/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,RMC SPORT 1
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/33
+#EXTINF:0 group-title="FRENCH" ,Rmc Sport 2
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/40
+#EXTINF:0 group-title="FRENCH" ,Rmc Sport 3
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/42
+#EXTINF:0 group-title="FRENCH" ,RMC SPORT 4
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/51
+#EXTINF:0 group-title="FRENCH" ,RMC SPORT 5
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/52
+#EXTINF:0 group-title="FRENCH" ,RMC SPORT 6
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/53
+#EXTINF:0 group-title="FRENCH" ,RMC STORY
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/80.m3u8
+#EXTINF:0 group-title="FRENCH" ,RTL9
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/237.m3u8
+#EXTINF:0 group-title="FRENCH" ,Science & Vie
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/213
+#EXTINF:0 group-title="FRENCH" ,SYFY HD
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/91
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-185.png" ,TCM Cinéma
+http://178.170.42.126/TCMCINEMA/index.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-197.png" ,Teletoon
+http://178.170.42.126/TELETOON/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,TF1
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/87.m3u8
+#EXTINF:0 group-title="FRENCH" ,TF1 SERIE FILM
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/215.m3u8
+#EXTINF:0 group-title="FRENCH" ,TFX
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/77.m3u8
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-229.png" ,TiJi
+http://178.170.42.126/TIJI/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,Tiji
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/177
+#EXTINF:0 group-title="FRENCH" ,TMC
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/78.m3u8
 #EXTINF:0 group-title="FRENCH" ,TOUTE L HISTOIRE
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/184.m3u8
-#EXTINF:0 group-title="FRENCH" ,DISCOVERY
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/186.m3u8
+#EXTINF:0 group-title="FRENCH" ,Toute l´Histoire
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/184
+#EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1776.png" ,Trek
+http://178.170.42.126/TREK/index.m3u8
+#EXTINF:0 group-title="FRENCH" ,Tv 5 Monde
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/172
+#EXTINF:0 group-title="FRENCH" ,TV5 MONDE FBSM
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/172.m3u8
+#EXTINF:0 group-title="FRENCH" ,Télétoon+
+https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/214
+#EXTINF:0 group-title="FRENCH" ,W9
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/79.m3u8
+#EXTINF:0 group-title="FRENCH" ,WARNER
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/183.m3u8
+
 
