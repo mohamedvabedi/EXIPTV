@@ -778,9 +778,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="FRENCH" ,TF1
 https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHMg70Rn8xcvoW5vSQbkvS34
-#EXTINF:0 group-title="FRENCH" ,FRANCE 2
+#EXTINF:-5 group-title="FRENCH" ,FRANCE 2
 https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHADFJw9oj-tJdSzmYd75oY4
-#EXTINF:-1 group-title="FRENCH" ,FRANCE 3
+#EXTINF:-5 group-title="FRENCH" ,FRANCE 3
 https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHGC2ufKibxuOn57cI-yMUJo
 #EXTINF:-1 group-title="FRENCH" ,CANAL +
 https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHHktvMnz_1UnYB5GXNfkmS0
