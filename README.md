@@ -4,4 +4,4 @@ https://bit.ly/EX_IPTV
 
 ADD CATEGORIES:
 
-Arabic,German,French,Spanish,Turkish
+Arabic,German,French,Spanish,Turkish,UK
