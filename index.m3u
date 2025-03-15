@@ -1557,7 +1557,18 @@ http://92.114.85.77:8000/play/a07d
 #EXTINF:-1 group-title="UK" ,YESTERDAY+1
 http://92.114.85.77:8000/play/a0b3
 
-
+#EXTINF:-1 ,Rai 1 HD
+http://154.54.220.67:34780/play/a046/index.m3u8
+#EXTINF:-1 ,Rai 2 HD
+http://154.54.220.67:34780/play/a047/index.m3u8
+#EXTINF:-1 ,Rai 3 HD
+http://154.54.220.67:34780/play/a048/index.m3u8
+#EXTINF:-1 ,Rai Gulp HD
+http://154.54.220.67:34780/play/a04k/index.m3u8
+#EXTINF:-1 ,Rai Movie HD
+http://154.54.220.67:34780/play/a04p/index.m3u8
+#EXTINF:-1 ,Rai News 24 HD
+http://154.54.220.67:34780/play/a0au/index.m3u8
 
 
 
