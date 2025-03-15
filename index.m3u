@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ARABIC" ,2M MONDE HD
 http://154.54.220.67:34780/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" ,Abu Dhabi Sports 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,ABUDHABI TV HD
 http://154.54.220.67:34780/play/a075/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AD Nat Geo HD
@@ -29,16 +27,10 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" ,Al Araby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC" ,Al Ekhbaria HD
-http://154.54.220.67:34780/play/a033/index.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AlEkhbariya.sa" tvg-logo="https://i.imgur.com/WcRlHQm.png" ,Al Ekhbariya
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,Al Emarat TV HD
 http://154.54.220.66:34780/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" ,Al Eshraq TV
-http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-id="AlEtejah.iq" tvg-logo="https://i.imgur.com/TkjdGhy.png" ,Al Etejah TV
-http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AlGhadPlus.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" ,Al Ghad Plus
 https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AlGhadTV.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" ,Al Ghad TV
@@ -65,8 +57,6 @@ https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AlMadina.ps" tvg-logo="https://i.imgur.com/NVOeM3P.png" ,Al Madina
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
-#EXTINF:-1 group-title="ARABIC" ,Al Maghrabi 24
-http://154.54.220.66:34780/play/a0gc/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,Al Maghribia HD
 http://154.54.220.67:34780/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" ,Al Mamlaka TV
@@ -187,8 +177,6 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AsharqNews.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" ,Asharq News
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 group-title="ARABIC" ,Asharq News Channel HD
-http://154.54.220.67:34780/play/a07b/index.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="AsharqNewsPortrait.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" ,Asharq News Portrait
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" ,Assadissa HD
@@ -573,10 +561,6 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 http://154.54.220.66:34780/play/a0gu/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,SADA TV [Pakistan]
 http://154.54.220.67:34780/play/a07o/index.m3u8
-#EXTINF:-1 group-title="ARABIC" ,SAFA TV
-http://154.54.220.66:34780/play/a0go/index.m3u8
-#EXTINF:-1 group-title="ARABIC" ,SAFA TV
-http://154.54.220.66:34780/play/a0eu/index.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="SafeerTV.uk" tvg-logo="https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png" ,Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="Sahara24.mr" tvg-logo="https://i.imgur.com/7RnkkCU.png" ,Sahara 24
@@ -595,8 +579,6 @@ https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chu
 http://154.54.220.67:34780/play/a07u/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,SAMIRA TV
 http://www.teledunet.com/?protocol=http:&play_ts=http://toptv.me:8080/live/tdn/tdn/719.ts
-#EXTINF:-1 group-title="ARABIC" ,Samira TV
-http://154.54.220.66:34780/play/a0ha/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,Saudi 2 HD
 http://154.54.220.67:34780/play/a02x/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,Saudi ch for Quran HD
@@ -675,8 +657,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" ,Watan TV
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-id="WatarRadio.ae" tvg-logo="https://maraya.faulio.com/storage/mediagallery/33/d7/fullhd_b25ca838c984b6ee2a9a254560f1e7bc1b04aa33.png" ,Watar Radio
-https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" ,Watar TV
 http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" ,Weyyak Action
@@ -697,90 +677,6 @@ http://154.54.220.67:34780/play/a076/index.m3u8
 http://154.54.220.66:34780/play/a0hc/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,ZILZAL CLASSIC
 http://154.54.220.66:34780/play/a0e3/index.m3u8
-
-
-
-
-
-
-http://154.54.220.67:34780/play/a076/index.m3u8
-#EXTINF:0 group-title="GERMANY" ,ard1
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
-#EXTINF:0 group-title="GERMANY" ,ZDF
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
-#EXTINF:0 group-title="GERMANY" ,RTL
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:0 group-title="GERMANY" ,RTL2
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
-#EXTINF:0 group-title="GERMANY" ,NTV
-https://strm.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:0 group-title="GERMANY" ,VOX
-https://strm.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:0 group-title="GERMANY" ,SAT1
-https://strm.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:0 group-title="GERMANY" ,PRO7
-https://strm.hdtvizlecanli.com/live/pro7.m3u8
-#EXTINF:0 group-title="GERMANY" ,KABEL1
-https://strm.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:0 group-title="GERMANY" ,ZDF NEO
-https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
-#EXTINF:0 group-title="GERMANY" ,RTL NITRO
-https://strm.hdtvizlecanli.com/live/nitro.m3u8
-#EXTINF:0 group-title="GERMANY" ,TELE5
-https://strm.hdtvizlecanli.com/live/tele5.m3u8
-#EXTINF:0 group-title="GERMANY" ,ORF1
-https://strm.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:0 group-title="GERMANY" ,ORF2
-https://strm.hdtvizlecanli.com/live/orf2.m3u8
-#EXTINF:0 group-title="GERMANY" ,SAT1 GOLD
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:0 group-title="GERMANY" ,SEVRUS
-https://strm.hdtvizlecanli.com/live/servus.m3u8
-#EXTINF:0 group-title="GERMANY" ,N24
-https://strm.hdtvizlecanli.com/live/n24.m3u8
-#EXTINF:0 group-title="GERMANY" ,NDR
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:0 group-title="GERMANY" ,BR
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:0 group-title="GERMANY" ,WDR
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:0 group-title="GERMANY" ,SIXX
-https://strm.hdtvizlecanli.com/live/six.m3u8
-#EXTINF:0 group-title="GERMANY" ,SUPER RTL
-https://strm.hdtvizlecanli.com/live/superrtl.m3u8
-#EXTINF:0 group-title="GERMANY" ,DMAX
-https://strm.hdtvizlecanli.com/live/dmax.m3u8
-#EXTINF:0 group-title="GERMANY" ,CC
-https://strm.hdtvizlecanli.com/live/comedy.m3u8
-#EXTINF:0 group-title="GERMANY" ,TLC
-https://strm.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:0 group-title="GERMANY" ,KABEL1 DOKU
-https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
-#EXTINF:0 group-title="GERMANY" ,PRO7 MAXX
-https://strm.hdtvizlecanli.com/live/pro7max.m3u8
-#EXTINF:0 group-title="GERMANY" ,ATV
-https://strm.hdtvizlecanli.com/live/atv.m3u8
-#EXTINF:0 group-title="GERMANY" ,HR
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:0 group-title="GERMANY" ,KIKA
-https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
-#EXTINF:0 group-title="GERMANY" ,SR
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:0 group-title="GERMANY" ,REDBULL
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:0 group-title="FRENCH" ,TEST
-https://s2.callofliberty.fr/coltv/france.5/master.m3u8?callofliberty=d3adaf023a6a4f71a9beea08d60c67f35e20db8b
-#EXTINF:0 group-title="FRENCH" ,6TER
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/159.m3u8
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-10.png" ,Action
 http://178.170.42.126/ACTION/index.m3u8
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-12.png" ,Animaux
@@ -797,30 +693,14 @@ https://play.witv.store/live/2719C8919B250671368654F53F9595F1/50.m3u8
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/44.m3u8
 #EXTINF:0 group-title="FRENCH" ,BFM TV
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/169
-#EXTINF:0 group-title="FRENCH" ,Boing
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/203
 #EXTINF:0 group-title="FRENCH" ,Boomerang
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/180
 #EXTINF:0 group-title="FRENCH" ,C News
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/171
 #EXTINF:0 group-title="FRENCH" ,Canal J
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/179
-#EXTINF:0 group-title="FRENCH" ,Canal Play 1
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/193
-#EXTINF:0 group-title="FRENCH" ,Canal Play 2
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/194
-#EXTINF:0 group-title="FRENCH" ,Canal Play 3
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/195
-#EXTINF:0 group-title="FRENCH" ,Canal Play 4
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/196
-#EXTINF:0 group-title="FRENCH" ,Canal Play 5
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/197
-#EXTINF:0 group-title="FRENCH" ,CANAL Plus Formula 1
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/89
 #EXTINF:0 group-title="FRENCH" ,CANAL+
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/106.m3u8
-#EXTINF:0 group-title="FRENCH" ,CANAL+ ACTION
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/116
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FB/CHN43FB_1074_29082023" ,Canal+ Box Office
 http://178.170.42.126/CANALBOXOFFICE/index.m3u8
 #EXTINF:0 group-title="FRENCH" ,CANAL+ CINEMA
@@ -833,8 +713,6 @@ https://play.witv.store/live/2719C8919B250671368654F53F9595F1/88.m3u8
 http://178.170.42.126/CANALGRANDECRAN/index.m3u8
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-3348.png" ,Canal+ Kids
 http://178.170.42.126/CANALKIDS/index.m3u8
-#EXTINF:0 group-title="FRENCH" ,Canal+ Moto GP
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/112
 #EXTINF:0 group-title="FRENCH" ,CANAL+ SERIES
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/141.m3u8
 #EXTINF:0 group-title="FRENCH" ,CANAL+ SPORT
@@ -849,8 +727,6 @@ https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/57
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/58.m3u8
 #EXTINF:0 group-title="FRENCH" ,Canal+ Sport 4
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/161
-#EXTINF:0 group-title="FRENCH" ,Canal+ Sport 5
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/162
 #EXTINF:0 group-title="FRENCH" ,Cartoon Network
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/76
 #EXTINF:0 group-title="FRENCH" ,CINE+ CLASSIC
@@ -861,8 +737,6 @@ https://play.witv.store/live/2719C8919B250671368654F53F9595F1/200.m3u8
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/198
 #EXTINF:0 group-title="FRENCH" ,CINE+ FRISSON
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/201.m3u8
-#EXTINF:0 group-title="FRENCH" ,Cine+ Premier
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/202
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-282.png" ,Ciné+ OCS
 http://178.170.42.126/CINEPREMIER/index.m3u8
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2037.png" ,Crime District
@@ -871,12 +745,6 @@ http://178.170.42.126/CRIMEDISTRICT/index.m3u8
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/204.m3u8
 #EXTINF:0 group-title="FRENCH" ,DAZN 1
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/150.m3u8
-#EXTINF:0 group-title="FRENCH" ,DAZN 2
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/151
-#EXTINF:0 group-title="FRENCH" ,DAZN 3
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/160
-#EXTINF:0 group-title="FRENCH" ,DISCOVERY
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/186.m3u8
 #EXTINF:-1 group-title="FRENCH" ,Discovery Investigation
 http://178.170.42.126/DISCOVERYINVESTIGATION/index.m3u8
 #EXTINF:0 group-title="FRENCH" ,Discovery Science
@@ -889,8 +757,6 @@ https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/205
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/206
 #EXTINF:0 group-title="FRENCH" ,EQUIPE
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/113.m3u8
-#EXTINF:0 group-title="FRENCH" ,Euronews
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/170
 #EXTINF:0 group-title="FRENCH" ,EUROSPORT 1
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/59.m3u8
 #EXTINF:0 group-title="FRENCH" ,EUROSPORT 2
@@ -903,28 +769,16 @@ https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/173
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/138.m3u8
 #EXTINF:0 group-title="FRENCH" ,Game One
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/104
-#EXTINF:0 group-title="FRENCH" ,GameToon
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/207
 #EXTINF:0 group-title="FRENCH" ,Gulli
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/208
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-88.png" ,Histoire
 http://178.170.42.126/HISTOIRE/index.m3u8
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-94.png" ,Infosport+
 http://178.170.42.126/INFOSPORT/index.m3u8
-#EXTINF:0 group-title="FRENCH" ,J-One
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/176
-#EXTINF:0 group-title="FRENCH" ,L'équipe Live 1
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/163
-#EXTINF:0 group-title="FRENCH" ,L'équipe Live 2
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/164
-#EXTINF:0 group-title="FRENCH" ,L'équipe Live 3
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/165
 #EXTINF:0 group-title="FRENCH" ,LCI
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/209
 #EXTINF:0 group-title="FRENCH" ,M6
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/102.m3u8
-#EXTINF:0 group-title="FRENCH" ,M6 Music
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/110
 #EXTINF:0 group-title="FRENCH" ,Mangas
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/97
 #EXTINF:0 group-title="FRENCH" ,MCM
@@ -947,8 +801,6 @@ https://play.witv.store/live/2719C8919B250671368654F53F9595F1/103.m3u8
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/109
 #EXTINF:0 group-title="FRENCH" ,OCS
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/156.m3u8
-#EXTINF:0 group-title="FRENCH" ,OCS Géants
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/157
 #EXTINF:-1 group-title="FRENCH" tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1562.png" ,Paramount Channel
 http://178.170.42.126/PARAMOUNT/index.m3u8
 #EXTINF:0 group-title="FRENCH" ,PLANETE+ AVENTURE
@@ -965,12 +817,6 @@ https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/33
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/40
 #EXTINF:0 group-title="FRENCH" ,Rmc Sport 3
 https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/42
-#EXTINF:0 group-title="FRENCH" ,RMC SPORT 4
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/51
-#EXTINF:0 group-title="FRENCH" ,RMC SPORT 5
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/52
-#EXTINF:0 group-title="FRENCH" ,RMC SPORT 6
-https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/53
 #EXTINF:0 group-title="FRENCH" ,RMC STORY
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/80.m3u8
 #EXTINF:0 group-title="FRENCH" ,RTL9
@@ -1011,11 +857,70 @@ https://fremtv.lol:443/live/2719C8919B250671368654F53F9595F1/214
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/79.m3u8
 #EXTINF:0 group-title="FRENCH" ,WARNER
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/183.m3u8
-
-
-
-
-#EXTM3U
+#EXTINF:0 group-title="GERMANY" ,ard1
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:0 group-title="GERMANY" ,ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:0 group-title="GERMANY" ,BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,CC
+https://strm.hdtvizlecanli.com/live/comedy.m3u8
+#EXTINF:0 group-title="GERMANY" ,DMAX
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+#EXTINF:0 group-title="GERMANY" ,HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:0 group-title="GERMANY" ,KABEL1
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:0 group-title="GERMANY" ,KABEL1 DOKU
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+#EXTINF:0 group-title="GERMANY" ,KIKA
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,N24
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+#EXTINF:0 group-title="GERMANY" ,NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:0 group-title="GERMANY" ,NTV
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:0 group-title="GERMANY" ,ORF1
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:0 group-title="GERMANY" ,ORF2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:0 group-title="GERMANY" ,PRO7
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:0 group-title="GERMANY" ,PRO7 MAXX
+https://strm.hdtvizlecanli.com/live/pro7max.m3u8
+#EXTINF:0 group-title="GERMANY" ,REDBULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:0 group-title="GERMANY" ,RTL NITRO
+https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTINF:0 group-title="GERMANY" ,RTL2
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+#EXTINF:0 group-title="GERMANY" ,SAT1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:0 group-title="GERMANY" ,SAT1 GOLD
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:0 group-title="GERMANY" ,SEVRUS
+https://strm.hdtvizlecanli.com/live/servus.m3u8
+#EXTINF:0 group-title="GERMANY" ,SIXX
+https://strm.hdtvizlecanli.com/live/six.m3u8
+#EXTINF:0 group-title="GERMANY" ,SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:0 group-title="GERMANY" ,SUPER RTL
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+#EXTINF:0 group-title="GERMANY" ,TELE5
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+#EXTINF:0 group-title="GERMANY" ,TLC
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:0 group-title="GERMANY" ,VOX
+https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:0 group-title="GERMANY" ,WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:0 group-title="GERMANY" ,ZDF
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+#EXTINF:0 group-title="GERMANY" ,ZDF NEO
+https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
 #EXTINF:-1 group-title="SPANISH" tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" ,8madrid TV
 http://185.189.225.150:85/8madrid/index.m3u8
 #EXTINF:-1 group-title="SPANISH" tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" ,Antena 3
@@ -1028,6 +933,8 @@ http://185.189.225.150:85/BOM/index.m3u8
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1 group-title="SPANISH" tvg-id="FactoriadeFiccion.es" tvg-logo="https://i.imgur.com/F1NdbpE.png" ,Factoria de Ficcion
 http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 group-title="SPANISH" tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" ,La 2
+http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 group-title="SPANISH" tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" ,La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 group-title="SPANISH" tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" ,Mega (Spain)
@@ -1042,23 +949,12 @@ http://185.189.225.150:85/nova/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 group-title="SPANISH" tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" ,Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 group-title="SPANISH" tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" ,La 2
-http://185.189.225.150:85/TV2/index.m3u8
-
-
-
-#EXTINF:-1 group-title="TURKISH" ,BENG⅛ T⅛RK HD
-http://185.234.111.229:8000/play/a05u
-#EXTINF:-1 group-title="TURKISH" ,7/24
-http://185.234.111.229:8000/play/a016
-#EXTINF:-1 group-title="TURKISH" ,24
-http://185.234.111.229:8000/play/a056
 #EXTINF:-1 group-title="TURKISH" ,24 HD
 http://185.234.111.229:8000/play/a059
-#EXTINF:-1 group-title="TURKISH" ,360
-http://185.234.111.229:8000/play/a057
 #EXTINF:-1 group-title="TURKISH" ,360 HD
 http://185.234.111.229:8000/play/a05a
+#EXTINF:-1 group-title="TURKISH" ,7/24
+http://185.234.111.229:8000/play/a016
 #EXTINF:-1 group-title="TURKISH" ,A HABER
 http://185.234.111.229:8000/play/a019
 #EXTINF:-1 group-title="TURKISH" ,A NEWS HD
@@ -1073,12 +969,12 @@ http://185.234.111.229:8000/play/a011
 http://185.234.111.229:8000/play/a05m
 #EXTINF:-1 group-title="TURKISH" ,AKSU TV
 http://185.234.111.229:8000/play/a04g
-#EXTINF:-1 group-title="TURKISH" ,AL ZAHRA TV
-http://185.234.111.229:8000/play/a00t
 #EXTINF:-1 group-title="TURKISH" ,ANADOLU DERNEK TV
 http://185.234.111.229:8000/play/a020
 #EXTINF:-1 group-title="TURKISH" ,ATV AVRUPA
 http://185.234.111.229:8000/play/a018
+#EXTINF:-1 group-title="TURKISH" ,BENG⅛ T⅛RK HD
+http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 group-title="TURKISH" ,BERAT TV
 http://185.234.111.229:8000/play/a05g
 #EXTINF:-1 group-title="TURKISH" ,BEYAZ TV HD
@@ -1099,10 +995,10 @@ http://185.234.111.229:8000/play/a051
 http://185.234.111.229:8000/play/a01v
 #EXTINF:-1 group-title="TURKISH" ,DRT DENIZLI TV
 http://185.234.111.229:8000/play/a06a
-#EXTINF:-1 group-title="TURKISH" ,EKİNTÜRK TV
-http://185.234.111.229:8000/play/a025
 #EXTINF:-1 group-title="TURKISH" ,EKOTURK HD
 http://185.234.111.229:8000/play/a00w
+#EXTINF:-1 group-title="TURKISH" ,EKİNTÜRK TV
+http://185.234.111.229:8000/play/a025
 #EXTINF:-1 group-title="TURKISH" ,ER TV
 http://185.234.111.229:8000/play/a04j
 #EXTINF:-1 group-title="TURKISH" ,ES TV
@@ -1129,8 +1025,6 @@ http://185.234.111.229:8000/play/a05x
 http://185.234.111.229:8000/play/a00n
 #EXTINF:-1 group-title="TURKISH" ,KABLO INFO HD
 http://185.234.111.229:8000/play/a01g
-#EXTINF:-1 group-title="TURKISH" ,KANAL 3 HD
-http://185.234.111.229:8000/play/a013
 #EXTINF:-1 group-title="TURKISH" ,KANAL 12
 http://185.234.111.229:8000/play/a054
 #EXTINF:-1 group-title="TURKISH" ,KANAL 15
@@ -1139,6 +1033,8 @@ http://185.234.111.229:8000/play/a04t
 http://185.234.111.229:8000/play/a04s
 #EXTINF:-1 group-title="TURKISH" ,KANAL 26
 http://185.234.111.229:8000/play/a04e
+#EXTINF:-1 group-title="TURKISH" ,KANAL 3 HD
+http://185.234.111.229:8000/play/a013
 #EXTINF:-1 group-title="TURKISH" ,KANAL 32
 http://185.234.111.229:8000/play/a05r
 #EXTINF:-1 group-title="TURKISH" ,KANAL 33
@@ -1179,8 +1075,6 @@ http://185.234.111.229:8000/play/a06d
 http://185.234.111.229:8000/play/a05w
 #EXTINF:-1 group-title="TURKISH" ,RUMELİ TV
 http://185.234.111.229:8000/play/a023
-#EXTINF:-1 group-title="TURKISH" ,SAT7TURK
-http://185.234.111.229:8000/play/a04v
 #EXTINF:-1 group-title="TURKISH" ,SAUDI SUNNAH
 http://185.234.111.229:8000/play/a00o
 #EXTINF:-1 group-title="TURKISH" ,SERHAT TV
@@ -1259,30 +1153,30 @@ http://185.234.111.229:8000/play/a01e
 http://185.234.111.229:8000/play/a05i
 #EXTINF:-1 group-title="TURKISH" ,TV 1
 http://185.234.111.229:8000/play/a05p
-#EXTINF:-1 group-title="TURKISH" ,TV 4 HD
-http://185.234.111.229:8000/play/a05b
-#EXTINF:-1 group-title="TURKISH" ,TV 8 INT
-http://185.234.111.229:8000/play/a01x
-#EXTINF:-1 group-title="TURKISH" ,TV 41
-http://185.234.111.229:8000/play/a04o
-#EXTINF:-1 group-title="TURKISH" ,TV 52
-http://185.234.111.229:8000/play/a05y
 #EXTINF:-1 group-title="TURKISH" ,TV 100 HD
 http://185.234.111.229:8000/play/a06b
 #EXTINF:-1 group-title="TURKISH" ,TV 100 HD
 http://185.234.111.229:8000/play/a00v
+#EXTINF:-1 group-title="TURKISH" ,TV 4 HD
+http://185.234.111.229:8000/play/a05b
+#EXTINF:-1 group-title="TURKISH" ,TV 41
+http://185.234.111.229:8000/play/a04o
+#EXTINF:-1 group-title="TURKISH" ,TV 52
+http://185.234.111.229:8000/play/a05y
+#EXTINF:-1 group-title="TURKISH" ,TV 8 INT
+http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 group-title="TURKISH" ,TV A
 http://185.234.111.229:8000/play/a052
 #EXTINF:-1 group-title="TURKISH" ,TV DEN
 http://185.234.111.229:8000/play/a05z
 #EXTINF:-1 group-title="TURKISH" ,TV KAYSERI
 http://185.234.111.229:8000/play/a05q
-#EXTINF:-1 group-title="TURKISH" ,TV5
-http://185.234.111.229:8000/play/a06c
-#EXTINF:-1 group-title="TURKISH" ,TV42
-http://185.234.111.229:8000/play/a05t
 #EXTINF:-1 group-title="TURKISH" ,TV264
 http://185.234.111.229:8000/play/a060
+#EXTINF:-1 group-title="TURKISH" ,TV42
+http://185.234.111.229:8000/play/a05t
+#EXTINF:-1 group-title="TURKISH" ,TV5
+http://185.234.111.229:8000/play/a06c
 #EXTINF:-1 group-title="TURKISH" ,TVNET HD
 http://185.234.111.229:8000/play/a044
 #EXTINF:-1 group-title="TURKISH" ,VAN TV
@@ -1293,7 +1187,6 @@ http://185.234.111.229:8000/play/a01n
 http://185.234.111.229:8000/play/a05e
 #EXTINF:-1 group-title="TURKISH" ,Z ZAZA TV
 http://185.234.111.229:8000/play/a01t
-
 #EXTINF:-1 group-title="UK" ,4Music
 http://92.114.85.77:8000/play/a05t
 #EXTINF:-1 group-title="UK" ,alibi
@@ -1556,22 +1449,3 @@ http://92.114.85.77:8000/play/a0at
 http://92.114.85.77:8000/play/a07d
 #EXTINF:-1 group-title="UK" ,YESTERDAY+1
 http://92.114.85.77:8000/play/a0b3
-
-#EXTINF:-1 ,Rai 1 HD
-http://154.54.220.67:34780/play/a046/index.m3u8
-#EXTINF:-1 ,Rai 2 HD
-http://154.54.220.67:34780/play/a047/index.m3u8
-#EXTINF:-1 ,Rai 3 HD
-http://154.54.220.67:34780/play/a048/index.m3u8
-#EXTINF:-1 ,Rai Gulp HD
-http://154.54.220.67:34780/play/a04k/index.m3u8
-#EXTINF:-1 ,Rai Movie HD
-http://154.54.220.67:34780/play/a04p/index.m3u8
-#EXTINF:-1 ,Rai News 24 HD
-http://154.54.220.67:34780/play/a0au/index.m3u8
-
-
-
-
-
-
