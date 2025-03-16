@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TEST" ,TEST1
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/2.m3u8
 #EXTINF:-1 group-title="ARABIC" ,2M MONDE HD
 http://154.54.220.67:34780/play/a0bc/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,ABUDHABI TV HD
